@@ -25,7 +25,7 @@
 
 <br>
 
-## Deploy da Aplicação com Versel: :star:
+## Deploy da Aplicação com Vercel: :star:
 > https://maratona-discovery.vercel.app/
 
 <br>
