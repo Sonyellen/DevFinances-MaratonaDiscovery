@@ -1,18 +1,17 @@
-<h1 align="center">
-  <img alt="dev.finances" title="Dev.Finances" src="./assets/logo.svg" width="220px" />
-</h1>
+![banner](banner.png)
 
 <br>
 
 ## Descrição do Projeto: :computer:
-<p align="justify"> Uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada, saída e total. </p>
-
-<br>
+<p align="justify"> Um chat para atendimento de clientes em tempo real. </p>
 
 <h4 align="center"> 
 	> Status do Projeto: Concluido :heavy_check_mark:
 </h4>
 
+<h1 align="center">
+<br>
+  <img src="./pagina.png" alt="pagina" width="80%">
 <br>
 
 ### Tarefas concluídas:  
